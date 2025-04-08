@@ -21,7 +21,7 @@ namespace HelloUserWinForms
         private void helloUserButton_Click(object sender, EventArgs e)
         {
             string username = helloUserTextBox.Text;
-            string message = HelloUserService.HelloUser(username);
+            string message = HelloUserService.HelloUser(username); 
             MessageBox.Show(message, "Greeting");
         }
     }
