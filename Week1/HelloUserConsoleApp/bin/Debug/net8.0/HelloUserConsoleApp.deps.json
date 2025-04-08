@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HelloUserConsoleApp/1.0.0": {
+        "dependencies": {
+          "HelloUserClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HelloUserConsoleApp.dll": {}
+        }
+      },
+      "HelloUserClassLibrary/1.0.0": {
+        "runtime": {
+          "HelloUserClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloUserConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloUserClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

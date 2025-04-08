@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "HelloUserClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/HelloUserClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloUserClassLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HelloUserClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../HelloUserClassLibrary/HelloUserClassLibrary.csproj",
+      "msbuildProject": "../HelloUserClassLibrary/HelloUserClassLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "HelloUserClassLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Luka_Gagnidze\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Luka_Gagnidze\\source\\repos\\DotNET-Mentoring-Program-Basics\\Week1\\HelloUserClassLibrary\\HelloUserClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Luka_Gagnidze\\source\\repos\\DotNET-Mentoring-Program-Basics\\Week1\\HelloUserClassLibrary\\HelloUserClassLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

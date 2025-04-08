@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hHKc1tWpuo9WkOZ55ed18QG479kv6v1a8SF4nAncHirqZ5SBdG7K33dT45maLDUyzAc2mAOwVtMtRXQiYTStOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luka_Gagnidze\\source\\repos\\DotNET-Mentoring-Program-Basics\\Week1\\HelloUserClassLibrary\\HelloUserClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka_Gagnidze\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Luka_Gagnidze\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

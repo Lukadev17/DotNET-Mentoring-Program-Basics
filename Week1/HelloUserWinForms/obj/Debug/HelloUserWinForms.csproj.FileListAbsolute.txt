@@ -1,0 +1,13 @@
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\bin\Debug\HelloUserWinForms.exe.config
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\bin\Debug\HelloUserWinForms.exe
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\bin\Debug\HelloUserWinForms.pdb
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\bin\Debug\HelloUserClassLibrary.dll
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\bin\Debug\HelloUserClassLibrary.pdb
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUserWinForms.csproj.AssemblyReference.cache
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUserWinForms.Form1.resources
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUserWinForms.Properties.Resources.resources
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUserWinForms.csproj.GenerateResource.cache
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUserWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUse.74917EB2.Up2Date
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUserWinForms.exe
+C:\Users\Luka_Gagnidze\source\repos\DotNET-Mentoring-Program-Basics\Week1\HelloUserWinForms\obj\Debug\HelloUserWinForms.pdb
