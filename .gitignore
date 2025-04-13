@@ -6,9 +6,9 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
-# Build Folders
-bin/
-obj/
+# Ignore build output
+**/bin/
+**/obj/
 
 # Common Folders
 TestResults/
