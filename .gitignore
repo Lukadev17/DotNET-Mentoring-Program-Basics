@@ -1,4 +1,61 @@
-# Visual Studio folders
-.vs/
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,dotnet
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,dotnet
+
+### .NET ###
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build Folders
+bin/
+obj/
+
+# Common Folders
+TestResults/
+packages/
+.nuget/
+
+# User-specific files
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+.idea/
+
+### VisualStudio ###
+.vs/
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.sql
+*.sdf
+*.cache
+*.zip
+
+# VS Code settings
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Office Temp Files
+~$*
+
+# Others
+*.log
+*.tlog
+*.vssscc
+*.vsp
+*.vspx
+*.vsmdi
+*.cache
+*.orig
+*.bak
+*.tmp
